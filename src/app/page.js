@@ -5,7 +5,7 @@ export default function Home() {
 
   return (
     <>
-      <Herosection title={"LET'S WATCH MOVIE TOGETHER"} imageUrl={'/home.svg'}/>
+      <Herosection title={"LET\'S  WATCH MOVIE TOGETHER"} imageUrl={'/home.svg'}/>
     </>
   )
 }
